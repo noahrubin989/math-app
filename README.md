@@ -1,2 +1,2 @@
 # Math-app
-Calculate partial derivatives and get some practice with docker and docker files etc.
+Simple math app (just to get some practice with docker)
